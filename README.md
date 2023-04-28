@@ -1,2 +1,2 @@
 # NerdCard
-### website: 
+### website: nerd-card-theta.vercel.app
